@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpliRemind</string>
+    <string-array name="repeat_options">
+        <item>Once</item>
+        <item>Daily</item>
+        <item>Mon to Fri</item>
+    </string-array>
+    <string name="app_title">SimpliRemind</string>
+</resources>
